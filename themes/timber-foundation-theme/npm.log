@@ -1,0 +1,30 @@
+
+> node-sass@4.5.3 install P:\WebsitesDev\vagrant-local\www\FirstTest\htdocs\wp-content\themes\timber-foundation-theme\node_modules\node-sass
+> node scripts/install.js
+
+Downloading binary from https://github.com/sass/node-sass/releases/download/v4.5.3/win32-x64-51_binding.node
+Download complete
+Binary saved to P:\WebsitesDev\vagrant-local\www\FirstTest\htdocs\wp-content\themes\timber-foundation-theme\node_modules\node-sass\vendor\win32-x64-51\binding.node
+Caching binary to C:\Users\zhily_000\AppData\Roaming\npm-cache\node-sass\4.5.3\win32-x64-51_binding.node
+
+> gifsicle@0.1.7 postinstall P:\WebsitesDev\vagrant-local\www\FirstTest\htdocs\wp-content\themes\timber-foundation-theme\node_modules\gifsicle
+> node index.js
+
+
+> jpegtran-bin@0.2.8 postinstall P:\WebsitesDev\vagrant-local\www\FirstTest\htdocs\wp-content\themes\timber-foundation-theme\node_modules\jpegtran-bin
+> node index.js
+
+
+> optipng-bin@0.3.11 postinstall P:\WebsitesDev\vagrant-local\www\FirstTest\htdocs\wp-content\themes\timber-foundation-theme\node_modules\optipng-bin
+> node index.js
+
+
+> node-sass@4.5.3 postinstall P:\WebsitesDev\vagrant-local\www\FirstTest\htdocs\wp-content\themes\timber-foundation-theme\node_modules\node-sass
+> node scripts/build.js
+
+Binary found at P:\WebsitesDev\vagrant-local\www\FirstTest\htdocs\wp-content\themes\timber-foundation-theme\node_modules\node-sass\vendor\win32-x64-51\binding.node
+Testing binary
+Binary is fine
+P:\WebsitesDev\vagrant-local\www\FirstTest\htdocs\wp-content\themes\timber-foundation-theme
+`-- node-sass@4.5.3 
+
